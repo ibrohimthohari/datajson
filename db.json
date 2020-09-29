@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Sopian",
+      "alamat": "Serang",
+      "umur": 26,
+      "nohp": "08124342342"
+    },
+    {
+      "id": 2,
+      "nama": "Nahwan Ganteng",
+      "alamat": "Klaten",
+      "umur": 23,
+      "nohp": "0815234523"
+    },
+    {
+      "id": 3,
+      "nama": "Saleh",
+      "alamat": "Cilegon",
+      "umur": 31,
+      "nohp": "08145235"
+    },
+    {
+      "id": 4,
+      "nama": "Rahmat",
+      "alamat": "Cilegon",
+      "umur": 31,
+      "nohp": "08145235"
+    },
+    {
+      "id": 5,
+      "nama": "Wahyu",
+      "alamat": "Cilegon",
+      "umur": 31,
+      "nohp": "08145235"
+    },
+    {
+      "id": 6,
+      "nama": "Agan",
+      "alamat": "Cilegon",
+      "umur": 31,
+      "nohp": "08145235"
+    },
+    {
+      "id": 7,
+      "nama": "Boim",
+      "alamat": "Cilegon",
+      "umur": 31,
+      "nohp": "08145235"
+    },
+    {
+      "id": 8,
+      "nama": "Agus",
+      "alamat": "Cilegon",
+      "umur": 31,
+      "nohp": "08145235"
+    },
+    {
+      "id": 9,
+      "nama": "Oji",
+      "alamat": "Cilegon",
+      "umur": 31,
+      "nohp": "08145235"
+    },
+    {
+      "id": 10,
+      "nama": "Catur",
+      "alamat": "Cilegon",
+      "umur": 31,
+      "nohp": "08145235"
+    },
+    {
+      "id": 11,
+      "nama": "Olin",
+      "alamat": "Cilegon",
+      "umur": 31,
+      "nohp": "08145235"
+    },
+    {
+      "id": 12,
+      "nama": "Saiful",
+      "alamat": "Cilegon",
+      "umur": 31,
+      "nohp": "08145235"
+    },
+    {
+      "id": 13,
+      "nama": "Odading",
+      "alamat": "Cilegon",
+      "umur": 31,
+      "nohp": "08145235"
+    }
+  ]
+}
